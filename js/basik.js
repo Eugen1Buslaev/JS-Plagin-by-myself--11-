@@ -1,0 +1,8 @@
+ $(function(){
+
+  $('.carousel-hider').carouselList();
+
+
+ });
+
+     
